@@ -15,7 +15,7 @@ Step 4: Run created docker image with command 6 from command_order.txt in the co
 
 Step 5: Run the program with command 7 from command_order.txt in the command prompt
 
-##How to use
+## How to use
 Step 1: Insert the pdf file
 
 Step 2: Ask the program question and wait for answer
