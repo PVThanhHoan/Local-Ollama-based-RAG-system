@@ -1,0 +1,41 @@
+
+# LangChain
+langchain
+langchain-community
+
+langchain-ollama
+langchain-chroma
+langchain-text-splitters
+# Vector Store
+chromadb
+
+# Embeddings
+sentence-transformers
+transformers
+
+# PyTorch (for embeddings on GPU)
+torch
+
+# Document Loading
+pypdf
+unstructured
+
+# Configuration & Utilities
+pyyaml
+python-dotenv
+requests
+
+# Evaluation
+ragas
+datasets
+
+# CLI
+click
+rich
+
+# Logging & Metrics
+tqdm
+
+# app 
+streamlit 
+Ipython

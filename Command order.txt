@@ -1,0 +1,7 @@
+1. docker build -t local_rag_docker .
+2. docker pull ollama/ollama
+3. docker run -d --name my-ollama-docker -p 11434:11434 -v ollama:/root/.ollama ollama/ollama
+4. docker exec -it my-ollama-docker  ollama pull nomic-embed-text
+5. docker exec -it my-ollama-docker  ollama pull qwen2.5:0.5b
+6.docker run -p 5000:5000 local_rag_docker
+7.streamlit run C:\Users\DELL\Downloads\RAG\local_rag.py
